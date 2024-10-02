@@ -1,1 +1,1 @@
-console.log("pair-me")
+console.log("paira-me")
